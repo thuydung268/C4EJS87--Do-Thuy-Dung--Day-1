@@ -120,9 +120,6 @@
 let x =prompt('type temperature in Celcius');
 let y =(x*9/5)+32;
 alert("gia tri do F la " + y );
-<<<<<<< HEAD
-=======
 console.log('Edit file on github');
 
 alert("you look beautiful today");
->>>>>>> a8619c9fd3371d246c93df26ee75a9e355530a0a
