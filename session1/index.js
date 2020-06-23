@@ -120,4 +120,4 @@
 let x =prompt('type temperature in Celcius');
 let y =(x*9/5)+32;
 alert("gia tri do F la " + y );
-~
+console.log('Edit file on github');
